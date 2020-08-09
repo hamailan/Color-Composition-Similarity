@@ -40,8 +40,10 @@ If you use our dataset, please cite our paper:
 @inproceedings{ha2020_color_sim,
 title={Color Composition Similarity and Its Application in Fine-grained Similarity},
 author={Ha, Mai Lan and Hosu, Vlad and Blanz, Volker},
-booktitle={IEEE Winter Conf. on Applications of Computer Vision (WACV)},
+booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
 year={2020},
+pages={2548-2557},
+doi = {10.1109/WACV45572.2020.9093522},
 }
 ```
 
